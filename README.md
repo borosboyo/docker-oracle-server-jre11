@@ -1,6 +1,6 @@
 # Oracle Server JRE with CentOS
 
-##Description##
+## Description ##
 
 This docker image contains Oracle Server JRE and use CentOS based system.
 
